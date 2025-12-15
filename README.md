@@ -2,7 +2,7 @@
 
 This section lists the authorized patents and registered software copyrights of **Bin Cao**.
 
-### Patents
+### [Patents](https://github.com/Bin-Cao/Patents/tree/main/Patents)
 - **Cao B**, Zhang T. Y., et al. (2025).  
   **Oxidation kinetics exponential model (TCLR)**  
   Patent No. **ZL 2023 1 1154321.2**  
@@ -29,7 +29,7 @@ This section lists the authorized patents and registered software copyrights of 
 
 ---
 
-### Software Copyrights
+### [Software Copyrights](https://github.com/Bin-Cao/Patents/tree/main/Software)
 
 I have registered multiple software copyrights developed during my study and work at **Shanghai University**, **Zhejiang Lab**, and **The Hong Kong University of Science and Technology (Guangzhou)**.
 
