@@ -31,7 +31,7 @@ This section lists the authorized patents and registered software copyrights of 
 
 ### [Software Copyrights](https://github.com/Bin-Cao/Patents/tree/main/Software)
 
-I have registered multiple software copyrights developed during my study and work at **Shanghai University**, **Zhejiang Lab**, and **The Hong Kong University of Science and Technology (Guangzhou)**.
+I have registered multiple software copyrights (10+) developed during my study and work at **Shanghai University**, **Zhejiang Lab**, and **The Hong Kong University of Science and Technology (Guangzhou)**.
 
 Most of these software projects are **open-source**, and the corresponding code is available on my GitHub profile:  
 👉 https://github.com/Bin-Cao
