@@ -1,8 +1,27 @@
+<table>
+  <tr>
+    <td width="160" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/7e77bd5a-42d6-45db-b8e6-2c82cac81b9d" width="140" style="border-radius: 50%;"/>
+    </td>
+    <td valign="top">
+      <b>For any inquiries or assistance, feel free to contact Mr. CAO Bin at:</b><br>
+      📧 Email: <a href="mailto:bcao686@connect.hkust-gz.edu.cn">bcao686@connect.hkust-gz.edu.cn</a><br><br>
+      Cao Bin is a PhD candidate at the <b>Hong Kong University of Science and Technology (Guangzhou)</b>, 
+      under the supervision of Professor <a href="https://gbaaa.org.hk/en-us/article/67">Zhang Tong-Yi</a>. His research focuses on 
+      <b>AI for science</b>, especially intelligent crystal-structure analysis and discovery. 
+      Learn more about his work on his 
+      <a href="https://www.caobin.asia/">homepage</a>.
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Authorized Patents and Software Copyrights
 
 This section lists the authorized patents and registered software copyrights of **Bin Cao**.
 
-### Patents
+### [Patents](https://github.com/Bin-Cao/Patents/tree/main/Patents)
 - **Cao B**, Zhang T. Y., et al. (2025).  
   **Oxidation kinetics exponential model (TCLR)**  
   Patent No. **ZL 2023 1 1154321.2**  
@@ -29,9 +48,9 @@ This section lists the authorized patents and registered software copyrights of 
 
 ---
 
-### Software Copyrights
+### [Software Copyrights](https://github.com/Bin-Cao/Patents/tree/main/Software)
 
-I have registered multiple software copyrights developed during my study and work at **Shanghai University**, **Zhejiang Lab**, and **The Hong Kong University of Science and Technology (Guangzhou)**.
+I have registered multiple software copyrights (10+) developed during my study and work at **Shanghai University**, **Zhejiang Lab**, and **The Hong Kong University of Science and Technology (Guangzhou)**, supporting a range of **industry-collaborative** (horizontal) and **government-funded** (vertical) research projects.
 
 Most of these software projects are **open-source**, and the corresponding code is available on my GitHub profile:  
 👉 https://github.com/Bin-Cao
