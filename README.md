@@ -47,7 +47,7 @@ This section lists the authorized patents and registered software copyrights of 
   [View Patent](http://epub.cnipa.gov.cn/cred/CN115017977B)
 
 
-**Note:** Prof. Tong-Yi Zhang was my supervisor for both my master’s and PhD studies.
+**Note:** Prof. Zhang T. Y. is my supervisor for both my master’s and PhD studies.
 
 
 ---
