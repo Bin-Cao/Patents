@@ -46,6 +46,10 @@ This section lists the authorized patents and registered software copyrights of 
   Grant Date: **2024-09-20** · Application Date: **2022-05-16**  
   [View Patent](http://epub.cnipa.gov.cn/cred/CN115017977B)
 
+
+**Note:** Prof. Tong-Yi Zhang was my supervisor for both my master’s and PhD studies.
+
+
 ---
 
 ### [Software Copyrights](https://github.com/Bin-Cao/Patents/tree/main/Software)
